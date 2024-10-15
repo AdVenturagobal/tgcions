@@ -1,0 +1,6 @@
+apscheduler
+python-telegram-bot
+requests
+selenium
+webdriver-manager
+pytz
